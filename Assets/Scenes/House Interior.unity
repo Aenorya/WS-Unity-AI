@@ -216,6 +216,8 @@ MonoBehaviour:
   tv: {fileID: 1675462758}
   stoppingDistance: 0.2
   stateText: {fileID: 1324769844}
+  hungerFill: {fileID: 1702485902}
+  workFill: {fileID: 416825645}
   references:
     version: 2
     RefIds:
